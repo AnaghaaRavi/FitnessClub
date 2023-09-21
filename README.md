@@ -1,4 +1,5 @@
-# FitnessClub![index](https://github.com/AnaghaaRavi/FitnessClub/assets/102452490/a1ee73e9-34f9-4315-b8d4-6c24906f4af0)
+# FitnessClub!
+[index](https://github.com/AnaghaaRavi/FitnessClub/assets/102452490/a1ee73e9-34f9-4315-b8d4-6c24906f4af0)
 ![index_ham](https://github.com/AnaghaaRavi/FitnessClub/assets/102452490/dcbdc897-2d72-46ba-a191-b2dab004e8a4)
 ![about](https://github.com/AnaghaaRavi/FitnessClub/assets/102452490/1fb3eae5-f6cf-4fbf-a172-93a3a27028bf)
 ![services_1](https://github.com/AnaghaaRavi/FitnessClub/assets/102452490/82a36dbf-faab-43ac-afa1-3bc03bc67aa4)
